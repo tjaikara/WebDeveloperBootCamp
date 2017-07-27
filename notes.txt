@@ -1,2 +1,9 @@
 
-            :::Notes related to this development::::
+action - where the form send data to
+method - what HTTP method (get/post)
+
+validations -
+The required attribute validates that an input is not empty(present validation)
+There are also type Validations
+
+Button at the end of a form means input type equals submit
