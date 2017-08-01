@@ -1,9 +1,51 @@
+HTML:
+    forms:
+        action - where the form send data to
+        method - what HTTP method (get/post)
 
-action - where the form send data to
-method - what HTTP method (get/post)
+        validations -
+        The required attribute validates that an input is not empty(present validation)
+        There are also type Validations
 
-validations -
-The required attribute validates that an input is not empty(present validation)
-There are also type Validations
+        Button at the end of a form means input type equals submit
 
-Button at the end of a form means input type equals submit
+CSS:
+
+    selector{
+        property: value;
+        anotherProperty: value;
+    }
+
+    color system:
+    Hexadecimal - #RRGGBB
+
+    rgb(red(0-255), green(0-255), blue(0-255))
+
+    rgb(red(0-255), green(0-255), blue(0-255), raidiant(0.0-1.0))
+
+    border has three elements - color, width, style
+
+    css selctor:
+        the basics - Element, id(#id), class selector(.class)
+
+    *{
+
+    }
+
+    adjacent{
+
+    }
+
+    decendent{
+
+    }
+
+    nth- selector{
+
+    }
+
+    css inheritance - effect on a parent will affect the child ones too
+
+    The Box Model:
+     In css each element is described using the standard box model. Each box has four
+     edge, padding edge, and content edge.
