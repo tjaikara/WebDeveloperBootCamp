@@ -49,3 +49,9 @@ CSS:
     The Box Model:
      In css each element is described using the standard box model. Each box has four
      edge, padding edge, and content edge.
+     {
+         content - width and height
+         border
+         padding
+         Margin
+     }
